@@ -2,8 +2,8 @@
     "workbench.colorTheme": "Default Light+",
     "workbench.iconTheme": "vscode-great-icons",
     "workbench.colorCustomizations": {
-        "activityBar.background": "#3B1D61",
-        "titleBar.activeBackground": "#532888",
+        "activityBar.background": "#9c50ff",
+        "titleBar.activeBackground": "#5370ff",
         "titleBar.activeForeground": "#FBF9FD"
     },
     "workbench.editorAssociations": {
