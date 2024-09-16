@@ -1,6 +1,6 @@
 ﻿Console.Clear();
 
-Console.WriteLine("Здрастуй жопамир!");
+Console.WriteLine("Да Здрастуй Жопамир!");
 
 Console.WriteLine("Ange förnamn:");
 string firstname = Console.ReadLine();
