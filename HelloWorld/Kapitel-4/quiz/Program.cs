@@ -102,7 +102,7 @@ else
 }
 
 // Resultat
-Console.WriteLine("\nDu fick totalt {poäng} poäng!");
+Console.WriteLine("Du fick totalt {poäng} poäng!");
 
 if (poäng == 5)
 {
