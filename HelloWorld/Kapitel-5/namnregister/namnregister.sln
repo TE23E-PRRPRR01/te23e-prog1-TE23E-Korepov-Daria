@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "namnregister", "namnregister.csproj", "{D003976A-A722-4CB1-B58F-E154CE0120CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D003976A-A722-4CB1-B58F-E154CE0120CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D003976A-A722-4CB1-B58F-E154CE0120CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D003976A-A722-4CB1-B58F-E154CE0120CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D003976A-A722-4CB1-B58F-E154CE0120CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E946E5D-42FB-4886-A4FC-DAC349451291}
+	EndGlobalSection
+EndGlobal
