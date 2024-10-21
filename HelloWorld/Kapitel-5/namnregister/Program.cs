@@ -13,22 +13,21 @@ while (true)
 Ange ditt val:
 """);
     string val = Console.ReadLine();
-
     if (val == "1")
     {
         while (true)
         {
             Console.WriteLine("Lägg in namn i register");
-            int namn = Console.ReadLine();
+            string namn = Console.ReadLine();
             namnlista.Add(namn);
         }
     }
 
     else if (val == "2")
     {
-        foreach (var namnet in namnlista)
+        foreach (var namn in namnlista)
         {
-            Console.Write($"namnet");
+            Console.Write($"namn");
         }
         Console.WriteLine();
     }

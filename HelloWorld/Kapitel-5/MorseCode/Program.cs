@@ -59,8 +59,3 @@ foreach (char bokstav in meddelande)
 
 
 }
-
-
-
-
-
