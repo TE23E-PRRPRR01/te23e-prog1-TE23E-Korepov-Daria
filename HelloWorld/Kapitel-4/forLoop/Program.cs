@@ -94,3 +94,34 @@ for (var i = startvärde; i <= slutvärde; i++)
      }
 }
 
+// Multiplikationstabell
+Console.WriteLine("Ange ett tal: ");
+int nummer = int.Parse(Console.ReadLine());
+
+for (var i = startvärde; i <= slutvärde; i++)
+{
+    Console.WriteLine($"{nummer} x {i} = {nummer * i}");
+}
+
+// Skapa ett mönster med stjärnor
+int rows = 5; // Antalet rader
+for (var i = startvärde; i <= rows; i++)
+{
+    Console.WriteLine(new string('*', i));
+}
+
+// Skriv ut en julgran
+Console.Write("Ange antal rader för julgranen: ");
+int treeRows = int.Parse(Console.ReadLine());
+
+  // Pyramid
+for (int i = 1; i <= treeRows; i++)
+{
+    Console.WriteLine(new string(' ', treeRows - i) + new string('*', 2 * i - 1));
+}
+
+  // Stam
+for (var i = startvärde; i < 2; i++)
+{
+    Console.WriteLine(new string(' ', treeRows - 1) + "**");
+}
