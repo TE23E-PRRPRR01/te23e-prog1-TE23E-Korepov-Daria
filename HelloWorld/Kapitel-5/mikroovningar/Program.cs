@@ -7,7 +7,7 @@ Console.WriteLine($"Mina kompisar är: {string.Join(",", namnlista)}");
 // skapa en lista med 5 orter
 List<string> orterlista = ["Stockholm", "Göteborg", "Malmö", "Uppsala", "Lund"];
 
-//Fem orter (Stockholm, Göteborg, Malmö, Uppsala och Lund)
+//viktig årtal
 List<int> listÅrtal = [1492, 1776, 1914, 1945, 1969];
 Console.WriteLine($"Fem viktiga årtal är: '{string.Join("','", listÅrtal)}'");
 

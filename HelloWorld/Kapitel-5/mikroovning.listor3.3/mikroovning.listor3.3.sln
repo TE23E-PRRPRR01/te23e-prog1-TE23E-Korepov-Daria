@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "mikroovning.listor3.3", "mikroovning.listor3.3.csproj", "{C8CE303D-5CA6-4BB7-A73A-AAC421314FCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8CE303D-5CA6-4BB7-A73A-AAC421314FCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8CE303D-5CA6-4BB7-A73A-AAC421314FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8CE303D-5CA6-4BB7-A73A-AAC421314FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8CE303D-5CA6-4BB7-A73A-AAC421314FCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C62DF99A-F90A-43B4-9E7E-0F262857DDD3}
+	EndGlobalSection
+EndGlobal
