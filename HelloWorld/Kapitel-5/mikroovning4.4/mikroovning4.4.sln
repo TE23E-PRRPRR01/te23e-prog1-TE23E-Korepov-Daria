@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "mikroovning4.4", "mikroovning4.4.csproj", "{DC382B71-B3C4-47F9-901F-0E37F5BE888E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC382B71-B3C4-47F9-901F-0E37F5BE888E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC382B71-B3C4-47F9-901F-0E37F5BE888E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC382B71-B3C4-47F9-901F-0E37F5BE888E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC382B71-B3C4-47F9-901F-0E37F5BE888E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D62D03D6-339D-48A0-9D83-E83619EC5BC4}
+	EndGlobalSection
+EndGlobal
