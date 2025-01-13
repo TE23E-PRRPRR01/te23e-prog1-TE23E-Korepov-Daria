@@ -9,7 +9,7 @@ SägHejNamn("Daria");
 SägHejNamn("Cecilia");
 SägHejNamn("");
 SägHejNamn("Liza");
-KvadreraTal('2');
+KvadreraTal(2);
 
 
 /* *******************************************************************
