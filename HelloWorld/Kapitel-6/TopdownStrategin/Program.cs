@@ -76,16 +76,9 @@ static void VisaMeny()
 /// <param name="filnamn">Namnet på filen</param>
 static void SparaFleraMeddelande(string filnamn)
 {
-    while (true)
-    {
-        Console.Write("Skriv in meddelande du vill spara: ");
-        string texten = Console.ReadLine();
-        if (condition)
-        {
-            break;
-        }
-        File.AppendAllText(filnamn, texten);  //Lägger till text till en befintlig fil.
-    }
+    Console.Write("Skriv in meddelande du vill spara: ");
+    string texten = Console.ReadLine();
+    File.AppendAllText(filnamn, texten);  //Lägger till text till en befintlig fil.
     Console.WriteLine("Meddelandet sparades.");
 }
 
