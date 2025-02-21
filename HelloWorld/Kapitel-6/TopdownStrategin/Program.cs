@@ -115,6 +115,6 @@ static void RaderaFil(string filnamn)
     }
     else
     {
-        Console.WriteLine("Filen raderades inte.");
+        Console.WriteLine("Filen raderades ej.");
     }
 }
